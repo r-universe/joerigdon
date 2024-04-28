@@ -5,6 +5,9 @@
 [submodule "RI2by2"]
 	path = RI2by2
 	url = https://github.com/cran/RI2by2
+[submodule "bulkQC"]
+	path = bulkQC
+	url = https://github.com/cran/bulkQC
 [submodule "nearfar"]
 	path = nearfar
 	url = https://github.com/cran/nearfar
